@@ -20,6 +20,22 @@ open it up in Unity Hub.
 
 Learn more in the official documentation
 
+
+## Features
+
+* Fog
+* FirstPerson Rig
+* URP, universal Rendering Pipeline
+* Customized models exported from Blender
+* Skybox
+* Game Levers
+* Animation
+* Particles System
+* Shaders
+* Customized textures made by Photoshop
+* Global Volume
+* Bloom
+
 ## Changes
 
 More information could be found in the CHANGELOG file.
